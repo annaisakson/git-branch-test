@@ -1,4 +1,9 @@
 h1 {
+<<<<<<< HEAD
     color: pink;
     font-size: 1rem;
+=======
+    color: red;
+    font-size: 2rem;
+>>>>>>> test-branch
 }
